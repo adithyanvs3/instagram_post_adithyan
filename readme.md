@@ -3,7 +3,7 @@
 ---
 
 # **Instagram Post UI – Tailwind CSS**
-[live@]
+[live@](https://instagram-post-adithyan.vercel.app/)
 
 This project is a simple **Instagram-style post UI** built using **Tailwind CSS**, **Font Awesome**, and plain **HTML**.
 It recreates a clean, modern Instagram post layout including:
